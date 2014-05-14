@@ -54,8 +54,15 @@ body.team {
     display: inline-block;
   }
 
-  .social a {
+  .social a:link,
+  .social a:visited {
     color: #7C7A79;
+  }
+
+  .social a:hover,
+  .social a:active {
+    border: none;
+    color: #F23818;
   }
 
   .social span {
