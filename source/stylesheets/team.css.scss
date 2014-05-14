@@ -1,0 +1,62 @@
+body.team {
+  h1 {
+    font-size: 2.5em;
+    font-weight: normal;
+    padding-top: 1em;
+    text-align: center;
+    text-transform: none;
+  }
+
+  .lead {
+    color: #797979;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    text-align: center;
+  }
+
+  .headshots {
+    width: 100%;
+  }
+
+  .headshots td {
+    padding: 8px;
+    text-align: center;
+  }
+
+  .headshots tr:not(:last-child) td {
+    padding-bottom: 2em;
+  }
+
+  .avatar {
+    &:hover,
+    &:active {
+      border: none;
+    }
+  }
+
+  .avatar img {
+    border-radius: 50%;
+    height: 128px;
+    width: 128px;
+  }
+
+  .name {
+    font-weight: bold;
+  }
+
+  .social li {
+    display: inline-block;
+  }
+
+  .bio {
+    font-size: 0.9em;
+    text-align: left;
+  }
+
+  .contributors {
+    .avatar img {
+      height: 64px;
+      width: 64px;
+    }
+  }
+}
