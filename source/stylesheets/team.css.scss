@@ -44,8 +44,26 @@ body.team {
     font-weight: bold;
   }
 
+  .social {
+    font-size: 24px;
+    // specificity hack because #content ul is more specific
+    margin: 0 !important;
+  }
+
   .social li {
     display: inline-block;
+  }
+
+  .social a {
+    color: #7C7A79;
+  }
+
+  .social span {
+    display: inline-block;
+    overflow: hidden;
+    text-indent: 200%;
+    white-space: nowrap;
+    width: 1px;
   }
 
   .bio {
