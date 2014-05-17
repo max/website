@@ -27,21 +27,20 @@ title: "Team"
 
           <ul class="social">
             <li>
-              <a class="twitter" href="http://twitter.com/emberjs">
+              <a class="twitter" href="<%= user.twitter %>">
                 <i class="icon-twitter"></i><span>Twitter</span>
               </a>
             </li>
 
             <li>
-              <a class="github" href="https://github.com/emberjs/ember.js">
+              <a class="github" href="<%= user.github %>">
                 <i class="icon-github"></i><span>GitHub</span>
               </a>
             </li>
           </ul>
 
           <p class="bio">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore.
+            <%= user.bio %>
           </p>
         </td>
       <% end %>
