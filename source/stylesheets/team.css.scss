@@ -79,9 +79,26 @@ body.team {
   }
 
   .contributors {
+    .avatar {
+      position: relative;
+    }
+
     .avatar img {
       height: 64px;
       width: 64px;
+    }
+
+    .avatar .type {
+      background: #F23818;
+      border-radius: 4px;
+      bottom: -4px;
+      color: white;
+      font-size: 0.8em;
+      font-weight: bold;
+      left: 5px;
+      position: absolute;
+      right: 5px;
+      text-align: center;
     }
   }
 }

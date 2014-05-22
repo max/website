@@ -3,48 +3,89 @@
   twitter: https://twitter.com/wycats
   image: ykatz.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Tom Dale
   github: https://github.com/tomdale
   twitter: https://twitter.com/tomdale
   image: tdale.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Peter Wagenet
   github: https://github.com/wagenet
   twitter: https://twitter.com/wagenet
   image: pwagenet.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Trek Glowacki
   github: https://github.com/trek
   twitter: https://twitter.com/trek
   image: tglowaki.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Erik Bryn
   github: https://github.com/ebryn
   twitter: https://twitter.com/ebryn
   image: ebryn.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Kris Selden
   github: https://github.com/krisselden
   twitter: https://twitter.com/krisselden
   image: kselden.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Stefan Penner
   github: https://github.com/stefanpenner
   twitter: https://twitter.com/stefanpenner
   image: spenner.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Leah Silber
   github: https://github.com/wifelette
   twitter: https://twitter.com/wifelette
   image: lsilber.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Alex Matchneer
   github: https://github.com/machty
   twitter: https://twitter.com/machty
   image: amatchneer.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
 - name: Robert Jackson
   github: https://github.com/rjackson
   twitter: https://twitter.com/rjackson
   image: rjackson.jpg
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: core
+
+- name: Kris Selden
+  github: https://github.com/krisselden
+  twitter: https://twitter.com/krisselden
+  image: kselden.jpg
+  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: docs
+- name: Stefan Penner
+  github: https://github.com/stefanpenner
+  twitter: https://twitter.com/stefanpenner
+  image: spenner.jpg
+  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: code
+- name: Leah Silber
+  github: https://github.com/wifelette
+  twitter: https://twitter.com/wifelette
+  image: lsilber.jpg
+  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: docs
+- name: Alex Matchneer
+  github: https://github.com/machty
+  twitter: https://twitter.com/machty
+  image: amatchneer.jpg
+  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: support
+- name: Robert Jackson
+  github: https://github.com/rjackson
+  twitter: https://twitter.com/rjackson
+  image: rjackson.jpg
+  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+  type: issues
