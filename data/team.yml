@@ -59,32 +59,48 @@
   bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
   type: core
 
-- name: Kris Selden
-  github: https://github.com/krisselden
-  twitter: https://twitter.com/krisselden
-  image: kselden.jpg
-  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
+
+- name: Igor Terzic
+  github: https://github.com/igorT
+  image: iterzic.jpg
+  type: data
+- name: Bradley Priest
+  github: https://github.com/bradleypriest
+  image: bpriest.jpg
+  type: data
+
+- name: David Hamilton
+  github: https://github.com/hjdivad
+  image: dhamilton.jpg
+  type: dev
+- name: Jo Liss
+  github: https://github.com/joliss
+  image: jliss.jpg
+  type: dev
+- name: Matthew Beale
+  github: https://github.com/mixonic
+  image: mbeale.jpg
+  type: dev
+- name: Teddy Zeeny
+  github: https://github.com/teddyzeenny
+  image: tzeeny.jpg
+  type: dev
+
+- name: Brendan McLoughlin
+  github: https://github.com/bmac
+  image: bmcloughlin.jpg
   type: docs
-- name: Stefan Penner
-  github: https://github.com/stefanpenner
-  twitter: https://twitter.com/stefanpenner
-  image: spenner.jpg
-  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
-  type: code
-- name: Leah Silber
-  github: https://github.com/wifelette
-  twitter: https://twitter.com/wifelette
-  image: lsilber.jpg
-  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
-  type: docs
-- name: Alex Matchneer
-  github: https://github.com/machty
-  twitter: https://twitter.com/machty
-  image: amatchneer.jpg
-  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
-- name: Robert Jackson
-  github: https://github.com/rjackson
-  twitter: https://twitter.com/rjackson
-  image: rjackson.jpg
-  bio: Adipisicing at ex quod minima odit, perspiciatis, suscipit sapiente voluptate veniam qui culpa.
-  type: issues
+
+- name: Kait Miller
+  github: https://github.com/kmiller915
+  image: kmiller.jpg
+  type: community
+
+- name: Eric Berry
+  github: https://github.com/cavneb
+  image: eberry.jpg
+  type: infra
+- name: Ryunosuke Sato
+  github: https://github.com/tricknotes
+  image: rsato.jpg
+  type: infra
