@@ -251,7 +251,6 @@ hr {
           display: block;
           text-transform: none;
           color: #d84a32;
-          font-weight: normal;
           font-size: 13px;
           &:hover {
             background-color: #f2d1cb;
@@ -1596,6 +1595,23 @@ a.edit-page {
       font-family: 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
       font-weight: 200;
       margin: 1.5em 0;
+    }
+  }
+
+  .deprecation {
+    background-color: #FFFFCC;
+    border: 1px solid #dfd7d4;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    margin: 1.5em 0;
+    padding: 10px;
+    p {
+      color: $orange-color;
+      font-family: 'Helvetica Neue';
+      font-size: 14px;
+      font-weight: bold;
+      margin: 0;
     }
   }
 
