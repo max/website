@@ -79,6 +79,10 @@ body.team {
   }
 
   .contributors {
+    td {
+      width: 25%;
+    }
+
     .avatar {
       position: relative;
     }
